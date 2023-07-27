@@ -1,4 +1,4 @@
-🎵 Audio Matrix 🎶
+<h1>🎵 Audio Matrix 🎶 </h1>
 
 Overview 🚀
 Audio Matrix is an Android application that revolutionizes your music experience. With an intuitive interface and powerful features, it simplifies audio file exploration and management.
